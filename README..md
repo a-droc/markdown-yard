@@ -6,8 +6,8 @@ Consersa es una empresa especializada en el mantenimiento y reparación de conte
 
 ## Configurar Entorno de Desarrollo
 #### Requisitos
-- Editor de codigo <span style="color:green">~recomendacion:<span> [Visual Studio Code](https://code.visualstudio.com/) 
-
+- Editor de codigo `~recomendacion:`  [Visual Studio Code](https://code.visualstudio.com/)
+- 
 ## Example1
 ## Example2
 ## Third Example
