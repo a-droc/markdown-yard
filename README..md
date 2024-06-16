@@ -1,15 +1,20 @@
-# Consersa YARD
-Consersa es una empresa especializada en el mantenimiento y reparación de contenedores. YARD es una aplicación web creada específicamente para satisfacer las necesidades de la empresa. Facilita la gestión integral de los contenedores al permitir llevar registros detallados, generar estadísticas, gestionar el personal, realizar facturaciones y muchas otras funciones que se presentarán más adelante.
+<div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
+<!--
+**nikolalsvk/nikolalsvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Tabla de Contenido
+Here are some ideas to get you started:
 
-## Configurar Entorno de Desarrollo
-#### Requisitos
-- Editor de codigo <font color="green">~recomendacion: </font>
- [Visual Studio Code](https://code.visualstudio.com/) 
-
-## Example1
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
